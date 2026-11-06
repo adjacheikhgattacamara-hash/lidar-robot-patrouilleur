@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+.vscode/
+.DS_Store
+# images non créées par moi
+Agriculture et lidar.jpg
+Cartographie drone.jpg
+Circulation et lidar.jpg
+Drone et lidar.jpg
+Geospatial et lidar.jpg
+Supervision Radar.jpg
+Voiture et lidar.jpg
+test_lidar.py
+Robot_Patrouilleur_LiDAR.pptx
+Guide_Robot_LiDAR.docx
